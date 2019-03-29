@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ocre">#b03060</color>
+    <color name="ocreClaro">#b84a55</color>
+    <color name="oro">#f6be00</color>
+    <color name="verdeClaro">#36ad80</color>
+    <color name="verdeOsucro">#1e6047</color>
+    <color name="musgo">#3e4b37</color>
+    <color name="cafe">#72360f</color>
+    <color name="cafeClaro">#c78e85</color>
+    <color name="piel">#e1b9a6</color>
+    <color name="white">#FFFFFF</color>
+</resources>

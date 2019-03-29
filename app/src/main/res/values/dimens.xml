@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fiftydp">50dp</dimen>
+    <dimen name="smalldp">5dp</dimen>
+    <dimen name="mediumdp">20dp</dimen>
+    <dimen name="oneHundredp">100dp</dimen>
+    <dimen name="sixtydp">60dp</dimen>
+</resources>
